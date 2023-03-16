@@ -1,0 +1,14 @@
+name=Better Sorting - Trapping animal bait patch
+id=SSP-BSTrapping
+
+description=
+
+modversion=0.1.0
+
+require=BetterSortCC
+
+authors=SenorSmartyPants
+poster=poster.png
+url=https://github.com/SenorSmartyPants/XXXX
+
+tags=Build 41;Items;
