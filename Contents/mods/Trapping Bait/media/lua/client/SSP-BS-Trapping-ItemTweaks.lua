@@ -21,7 +21,3 @@ TweakItem("Base.Slug2","DisplayCategory","SurTrap");
 TweakItem("Base.Snail","DisplayCategory","SurTrap");
 
 TweakItem("Base.Worm","DisplayCategory","SurTrap");
-
-
-
-
