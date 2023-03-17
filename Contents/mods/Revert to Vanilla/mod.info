@@ -1,0 +1,14 @@
+name=Better Sorting - Revert to Vanilla
+id=SSP-BSVanilla
+
+description=Puts some items back into vanilla catergories. Adds some missing items from BS Smorgasbord Expanded.
+
+modversion=0.1.0
+
+require=BetterSortCC
+
+authors=SenorSmartyPants
+poster=poster.png
+url=https://github.com/SenorSmartyPants/XXXX
+
+tags=Build 41;Items;
