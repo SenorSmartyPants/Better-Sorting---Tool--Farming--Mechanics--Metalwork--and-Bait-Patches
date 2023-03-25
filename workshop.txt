@@ -4,5 +4,7 @@ title=Better Sorting - Tool (Farming, Mechanics, Metalwork) and Bait Patches
 description=Adds new categories for tools for farming, mechanics, metalwork.
 description=
 description=Adds live animal/insect bait to Survival - Fishing or Survival - Trapping. All bait I categories can be used in fishing. Most can be placed in traps (not sure how useful each one is). If you include the trapping mod, then all trapping eligible bait will be marked for trapping. If you can only interested in fishing, don't load the trapping mod.
+description=
+description=Revert some items to vanilla categories and pull some missing categories from BS Smorgasbord
 tags=Build 41;Items
 visibility=public

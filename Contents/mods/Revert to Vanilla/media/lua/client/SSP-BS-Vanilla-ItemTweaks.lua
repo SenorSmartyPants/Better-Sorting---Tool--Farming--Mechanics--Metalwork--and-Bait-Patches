@@ -17,6 +17,10 @@ TweakItem("Base.Bag_Military","DisplayCategory","ClothB");
 TweakItem("Base.Bag_ToolBag","DisplayCategory","ClothB");
 TweakItem("Base.Bag_MedicalBag","DisplayCategory","ClothB");
 
+--NATT
+TweakItem("Base.AnimeTshirt","DisplayCategory","Cloth");
+TweakItem("Base.Bag_ALICEpack_Pink","DisplayCategory","ClothB");
+
 --The following were all put into container category in BS
 --Cooking
 TweakItem("Base.MugRed","DisplayCategory","Cooking");
